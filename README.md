@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
  
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/11419536-Deep-Working">
 
 - 🌱 I’m currently working on **Backend Development**
 
