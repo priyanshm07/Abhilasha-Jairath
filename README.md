@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **Backend Development**
 
-- 👨‍💻 All of my projects are available at [Abhilasha's-Work](https://app.netlify.com/teams/abhilasha-jairath/sites)
+- 👨‍💻 All of my projects are available at [Abhilasha's-Work](https://dig-in-meals.netlify.app)
 
 - 👯 I’m looking to collaborate on **competitive programming.**
 
