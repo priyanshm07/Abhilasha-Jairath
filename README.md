@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abhilasha Jairath</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
+</div>
+
+  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+</div>
+
 - 🌱 I’m currently working on **Backend Development**
 - 👨‍💻 All of my projects are available at [Abhilasha's-Work](https://dig-in-meals.netlify.app)
 - 👯 I’m looking to collaborate on **competitive programming.**
 - 💬 Ask me about **Mern stack, competitive programming.**
 - 📫 How to reach me **abhilashajairath7@gmail.com**
 
-</div>
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-</div>
+
 
  
 <h3 align="left">Connect with me:</h3>
